@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     'descubra o que você é',
-    'O que é uma função?',
+    'tem mais de 10 anos?',
     'sim:continue respondendo<br>nao:pare de responder'
 )
 
 criaCartao(
     'descubra o que você é',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'clique e descubra o que você é',
+    'você é GAY!!!'
 )
