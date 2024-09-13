@@ -7,13 +7,13 @@ criaCartao(
 criaCartao(
     'descubra o que você é',
     'você tem olhos?',
-    'sim:continue respondendo nao:pare de responder'
+    'sim:continue respondendo<br>nao:pare de responder'
 )
 
 criaCartao(
     'descubra o que você é',
     'O que é uma função?',
-    'sim:continue respondendo nao:pare de responder'
+    'sim:continue respondendo<br>nao:pare de responder'
 )
 
 criaCartao(
