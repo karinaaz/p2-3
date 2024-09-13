@@ -31,7 +31,6 @@ body {
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
-    text-transform: uppercase;
 }
 
 .cartao__conteudo h3 {
@@ -60,6 +59,7 @@ body {
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
     font-weight: 700;
+    text-transform: uppercase;
 }
 
 .cartao.active .cartao__conteudo {
