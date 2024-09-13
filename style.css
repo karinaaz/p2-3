@@ -58,7 +58,7 @@ body {
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
-    font-weight: 700;
+    font-weight: 1000;
     text-transform: uppercase;
 }
 
