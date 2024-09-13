@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'descubra o que você é',
     'O que é uma função?',
-    'sim:continue respondendo \n nao:pare de responder'
+    'sim:continue respondendo\nnao:pare de responder'
 )
 
 criaCartao(
