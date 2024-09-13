@@ -1,23 +1,23 @@
 criaCartao(
     'descubra o que você é',
-    'gosta de chocolate?',
-    'sim:continue respondendo                            nao:pare de responder'
+    'gosta bebe água?',
+    'sim:continue respondendo nao:pare de responder'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'descubra o que você é',
+    'você tem olhos?',
+    'sim:continue respondendo nao:pare de responder'
 )
 
 criaCartao(
-    'Programação',
+    'descubra o que você é',
     'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'sim:continue respondendo \n nao:pare de responder'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'descubra o que você é',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
