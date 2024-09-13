@@ -1,7 +1,7 @@
 criaCartao(
     'descubra o que você é',
     'gosta bebe água?',
-    'sim:continue respondendo nao:pare de responder'
+    'sim:continue respondendo\nnao:pare de responder'
 )
 
 criaCartao(
@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'descubra o que você é',
     'O que é uma função?',
-    'sim:continue respondendo\nnao:pare de responder'
+    'sim:continue respondendo nao:pare de responder'
 )
 
 criaCartao(
