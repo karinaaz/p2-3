@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background-color: #d19c9c;
     font-family: Bai Jamjuree;
 }
 
@@ -82,7 +82,7 @@ body {
 
 footer {
     background-color: black;
-    color: rgb(189, 142, 142);
+    color: rgb(255, 255, 255);
     position: fixed;
     bottom: 0;
     width: 100%;
