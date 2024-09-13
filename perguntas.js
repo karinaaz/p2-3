@@ -1,6 +1,6 @@
 criaCartao(
     'descubra o que você é',
-    'gosta bebe água?',
+    'você bebe água?',
     'sim:continue respondendo<br>nao:pare de responder'
 )
 
