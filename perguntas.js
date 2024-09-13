@@ -1,7 +1,7 @@
 criaCartao(
-    'sobre você',
-    'O que você é?',
-    '!!!!!!!GAY!!!!!!!'
+    'descubra o que você é',
+    'gosta de chocolate?',
+    'sim:continue respondendo                            nao:par de responder'
 )
 
 criaCartao(
